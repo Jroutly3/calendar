@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Calendar App Tutorial: https://code.tutsplus.com/tutorials/how-to-create-a-react-native-calendar-component--cms-33664
+React-Native Calendar: https://www.reactnativeschool.com/how-to-use-react-native-calendar
 
 ## Available Scripts
 
